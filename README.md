@@ -37,7 +37,7 @@ I have 11 peer-reviewed papers (2014 to 2023) on AI for cancer imaging and medic
 - Mustafa, S. and Kimura, A. (2019). An Ensemble Approach to Precancerous Cervical Lesion Classification from Cervigram Images. *IIEEJ Transactions on Image Electronics and Visual Computing*.
 - Mustafa, S. and Dauda, M. (2019). Evaluating GrabCut Algorithm for Cervical Cancer Lesion Segmentation. *IEEE Nigeria Computer Chapter*.
 
-Full list: [add a link to your publication list, for example Google Scholar or ORCID]
+Full list: [ORCID record](https://orcid.org/0000-0002-9078-9724)
 
 ## Honours
 
@@ -64,5 +64,5 @@ Full list: [add a link to your publication list, for example Google Scholar or O
 - LinkedIn: [linkedin.com/in/suleiman-mustafa](https://www.linkedin.com/in/suleiman-mustafa)
 - X: [@sule_musty](https://x.com/sule_musty)
 - Email: suleiman213@gmail.com
+- ORCID: [0000-0002-9078-9724](https://orcid.org/0000-0002-9078-9724)
 - Location: Cambridge, UK
-- Website: [add your preferred website, if you want one shown]
